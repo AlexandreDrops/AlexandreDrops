@@ -14,6 +14,7 @@
   <img align="center" alt="Drops-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Drops-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Drops-PowerBI" height="30" width="40" src="https://github.com/AlexandreDrops/imagens/blob/main/PowerBI.png">
 </div>
 <br>
 <div> 
